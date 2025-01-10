@@ -1,5 +1,6 @@
 # Simple-Counter-App
-It is a simple counter app that I created using React and Redux Toolkit. 
+ It is a simple counter app that I created using React and Redux Toolkit. 
+## Hosted Here: https://simple-counter-app-woad.vercel.app/
 
 * Clone the Repository : `git clone <repository-url>`
 * Install Dependencies : `npm install`
